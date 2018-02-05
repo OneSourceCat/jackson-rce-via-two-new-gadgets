@@ -17,5 +17,7 @@ This issue was fixed in 2.9.4. So just update to the lastest version of jackson-
 
 ## References
 [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-5968](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-5968)
+
 [https://github.com/javaExploit/jackson-rce-via-two-new-gadgets](https://github.com/javaExploit/jackson-rce-via-two-new-gadgets)
+
 [https://github.com/FasterXML/jackson-databind/issues/1899](https://github.com/FasterXML/jackson-databind/issues/1899)
